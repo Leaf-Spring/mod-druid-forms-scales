@@ -1,0 +1,24 @@
+[worldserver]
+#
+# DruidFormsScales.Enable
+#        Habilita o deshabilita el módulo de escalas para formas de druida.
+#        Default: 1 (Habilitado)
+#
+
+DruidFormsScales.Enable = 1
+
+#
+# DruidFormsScales.MinScale
+#        Escala mínima permitida para las formas de druida.
+#        Default: 0.5
+#
+
+DruidFormsScales.MinScale = 0.5
+
+#
+# DruidFormsScales.MaxScale
+#        Escala máxima permitida para las formas de druida.
+#        Default: 2.0
+#
+
+DruidFormsScales.MaxScale = 2.0
